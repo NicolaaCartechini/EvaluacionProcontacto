@@ -1,7 +1,8 @@
 # Actividad Evaluatoria Procontacto
 
-## Ejercicio 2
+![alt text](Screenshots/grupoprocontacto_logo.jpg)
 
+## Ejercicio 2
 
 ### (1) ¿Qué es un servidor HTTP?
 
