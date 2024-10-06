@@ -1,4 +1,4 @@
-# Ejercicio 2
+## Ejercicio 2
 
 
 ### (1) ¿Qué es un servidor HTTP?
