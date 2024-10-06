@@ -53,7 +53,7 @@ Un Rol en Salesforce es una configuración que determina la jerarquía de los us
 
 Una Validation Rule es una regla que se utiliza para garantizar que los datos ingresados en un registro cumplan con ciertos criterios antes de que se pueda guardar el registro. Estas reglas ayudan a mantener la integridad de los datos y aseguran que los usuarios ingresen información válida y coherente.
 
-## H - ¿Qué diferencia hay entre una relación Master Detail y Lookup?
+### H - ¿Qué diferencia hay entre una relación Master Detail y Lookup?
 
 Las relaciones Master-Detail y Lookup son dos tipos de relaciones que se pueden establecer entre objetos. Ambas permiten la conexión de registros entre diferentes objetos, pero tienen características y comportamientos distintos. La elección entre una relación Master-Detail y una relación Lookup depende de la naturaleza de la relación que deseas establecer entre los objetos y cómo deseas gestionar la integridad de los datos y la seguridad. Las relaciones Master-Detail son más rígidas y estructuradas, mientras que las relaciones Lookup son más flexibles y permiten una gestión de datos más suelta.
 
