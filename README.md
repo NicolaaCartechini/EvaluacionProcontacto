@@ -125,3 +125,19 @@ Los headers en un request HTTP son componentes clave que proporcionan informaci�
 ### ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
 La diferencia que se encuentra en el punto 1 es que luego de hacer la primera request GET, resivimos una lista con los datos de contactos ya guardados anteriormente. En el punto numero 3, volvemos a hacer una llamada a la request Get pero previamente realizamos una Request POST en la que cargamos nuestros datos en la lista, por lo tanto, en la 2da request GET nos aparece la misma lista pero con nuestros datos agregados al final de la misma.
+
+## Ejercicio 6
+
+## Soluciones de SalesForce
+
+### A - ¿Qué es Salesforce?
+
+Salesforce es más que un simple CRM. Aunque almacena datos de clientes, gestiona prospectos y facilita la colaboración, viene con numerosas funciones estándar y personalizables listas para usar, que permiten gestionar ventas, atención al cliente, marketing, y análisis sin necesidad de configuraciones complejas. 
+
+### B - ¿Qué es Sales Cloud?
+
+Sales Cloud es uno de los productos principales de Salesforce diseñado específicamente para gestionar el proceso de ventas y optimizar las actividades relacionadas con la gestión de clientes potenciales, oportunidades y cuentas. Se trata de una solución de CRM (Customer Relationship Management) que ayuda a las empresas a gestionar su relación con los clientes y a cerrar ventas de manera más eficiente.
+
+### C - ¿Qué es Service Cloud?
+
+Service Cloud es un producto de Salesforce diseñado específicamente para ayudar a las empresas a gestionar sus servicios de atención al cliente de manera más eficiente. Esta centrado en mejorar la experiencia del cliente al proporcionar herramientas para resolver problemas rápidamente, automatizar procesos de soporte y ofrecer servicios personalizados en múltiples canales de comunicación.
