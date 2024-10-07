@@ -323,3 +323,10 @@ Un ERP es un sistema de software integrado que ayuda a las organizaciones a gest
 ### N - ¿Salesforce es un ERP?
 
 Salesforce no es un ERP, pero es una plataforma de gestión de relaciones con los clientes que ofrece una serie de características y funcionalidades que pueden complementar y, en algunos casos, sustituir ciertas capacidades de un ERP.
+
+## Ejercicio 7
+
+### Punto A
+
+![alt text](<Screenshots/ID Procontacto.png>)
+
