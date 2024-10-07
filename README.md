@@ -127,6 +127,10 @@ Los headers en un request HTTP son componentes clave que proporcionan informaci√
 
 La diferencia que se encuentra en el punto 1 es que luego de hacer la primera request GET, resivimos una lista con los datos de contactos ya guardados anteriormente. En el punto numero 3, volvemos a hacer una llamada a la request Get pero previamente realizamos una Request POST en la que cargamos nuestros datos en la lista, por lo tanto, en la 2da request GET nos aparece la misma lista pero con nuestros datos agregados al final de la misma.
 
+## Ejercicio 4
+
+Mi perfil publico de Trailhead [here](https://www.salesforce.com/trailblazer/ghicjn7mpczlybwrp0).
+
 ## Ejercicio 6
 
 ## Soluciones de SalesForce
