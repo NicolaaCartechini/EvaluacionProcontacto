@@ -41,3 +41,5 @@ Un caso es un problema o solicitud de un cliente que necesita atención. Datos e
 ### 10 - Article
 
 Un artículo es un documento o contenido que se puede utilizar para ayudar a resolver un caso. Datos estándar: Title, Summary, Body y Article Number.
+
+![alt text](<../Screenshots/diagrama uml.drawio.png>)
