@@ -336,3 +336,9 @@ Salesforce no es un ERP, pero es una plataforma de gestión de relaciones con lo
 
 ### Punto C
 
+![alt text](<Screenshots/Change ID (1).png>)
+
+![alt text](<Screenshots/Change ID (2).png>)
+
+![alt text](<Screenshots/Change ID (3).png>)
+

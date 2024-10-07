@@ -10,3 +10,9 @@
 
 ### Punto C
 
+![alt text](<../Screenshots/Change ID (1).png>)
+
+![alt text](<../Screenshots/Change ID (2).png>)
+
+![alt text](<../Screenshots/Change ID (3).png>)
+
